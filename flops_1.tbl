@@ -25,6 +25,7 @@ Results as of 26 Sep 1997:
                                                       (MHz)               
 ### ---------------- -------------------- ----------- ----- --------- ----
 0005AMD Ryzen 9      Windows 10           3950X        4200 5397.1214  152
+0007Huawei P30 Pro   Android 10           Kirin 980    1800 2618.4619  152
 001 SGI Origin 200   Irix 6.4             R10k--04CPU   180  347.4459  151
 002 Sun Ultra 2      Solaris 2.5.1        Ultra2-2CPU   300  207.7866  151
 003 Alphasystem 4000 Digital Unix V4.0B   21164-2CPU    466  180.2054  147
@@ -349,6 +350,7 @@ Results as of 26 Sep 1997:
 ---
 ###
 000.5 cl
+000.7 ndk-build
 001 MIPSPRO v7.1.1, cc -O3 -64 -DUNIX, 1GB RAM, 1MB cache
     NOTE: The R10000 is a 64-bit machine with 64-bit OS & compiler.
 002 GNU C 2.7.2, gcc -O2 -mv8 -DUNIX, 1MB Cache, 128MB RAM
